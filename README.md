@@ -122,7 +122,48 @@ Một phần mềm mô phỏng hệ thống quản lý lớp học trực tuyế
 ## 🧩 Mô hình OOP
 
 - Sử dụng kế thừa, interface, xử lý ngoại lệ  
-- Tách các class thecom  
+- Tách các class theo chức năng như `QuanLySinhVien`, `QuanLyGiangVien`, `BaiTap`, `DiemDanh`, v.v.  
+- Áp dụng các nguyên lý SOLID và khả năng mở rộng dễ dàng  
+
+---
+
+## 📁 Sơ đồ cơ sở dữ liệu
+
+![SO DO DATABASE](https://github.com/user-attachments/assets/829b84bd-c5ce-4e7a-bdc5-52170a840860)
+
+---
+
+## 🧪 Kết quả kiểm thử
+
+- Giao diện hoạt động ổn định  
+- Thao tác thêm/sửa/xóa dữ liệu chính xác  
+- Các chức năng được kiểm thử với nhiều trường hợp khác nhau  
+
+---
+
+## 🚀 Hướng phát triển tương lai
+
+- Kết nối hệ thống với nền tảng Web  
+- Hỗ trợ tính năng thông báo thời gian thực  
+- Triển khai đa ngôn ngữ  
+- Đồng bộ dữ liệu với đám mây  
+
+---
+
+## 🧑‍💻 Nhóm phát triển
+
+| Tên thành viên                 | Mã sinh viên      |
+|-------------------------------|-------------------|
+| Trần Minh Thương              | N21DCVT101        |
+| Trần Nguyễn Tuấn Khanh        | N21DCVT044        |
+| Đặng Thu Huyền                | N21DCVT040        |
+| Nguyễn Đình Lân               | N21DCVT057        |
+
+---
+
+## ❤️ Góp ý & Liên hệ
+
+📩 Email: dangthuhuyen07032003@gmail.com  
 
 ⭐ Nếu bạn thấy dự án hữu ích, hãy để lại một **Star ⭐ trên GitHub** để ủng hộ nhóm nhé!
 
